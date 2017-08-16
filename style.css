@@ -1,0 +1,23 @@
+.main {
+	margin-top: 20px;
+	text-align: center;
+}
+
+canvas {
+	background: #c6c6c6;
+}
+
+#images {
+	display: none;
+}
+
+
+button {
+	margin: 0 auto;
+	color: #fff;
+	font-weight: 700;
+	padding: 10px;
+	width: 250px;
+	background: #42c2f4;
+	border: 1px solid #2c3f47;
+}
